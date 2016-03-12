@@ -1,0 +1,40 @@
+<ul id="drop-nav">
+  <li><a href="#">Home</a></li>
+  <li><a href="#">Live Darshan</a></li>
+  
+  <li><a href="#">Videos</a></li>
+    <ul>
+      <li><a href="#">Maalik</a></li>
+      <li><a href="#">Dwaraka Mai</a></li>
+      <li><a href="#">Chawadi</a></li>
+    </ul>
+  </li>
+  
+  <li><a href="#">Photo Gallery</a>
+    <ul>
+      <li><a href="#">PanaromicViews</a></li>
+      <li><a href="#">Khandoba Temple</a></li>
+      <li><a href="#">Museum</a></li>
+      <li><a href="#">GuruSthan</a></li>
+    </ul>
+  </li>
+  
+  <li><a href="#">Downloads</a>
+    <ul>
+      <li><a href="#">General Downloads</a></li>
+      <li><a href="#">Aarti</a></li>
+	  <li><a href="#">Books</a></li>
+	  <li><a href="#">Chants</a></li>
+    </ul>
+  </li>
+  
+    <li><a href="#">Useful Links</a>
+    <ul>
+      <li><a href="#">How to get there</a></li>
+      <li><a href="#">Time Table</a></li>
+	  <li><a href="#">In Shirdi</a></li>
+	  <li><a href="#">Around Shirdi</a></li>
+    </ul>
+  </li>
+  
+</ul>

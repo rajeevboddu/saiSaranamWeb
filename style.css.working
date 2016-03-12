@@ -1,0 +1,259 @@
+body{
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+width: auto%;
+height: 100%;
+margin: 0;
+font-family: Arial;
+background: url("images/bg.jpg") 50% 0 no-repeat;
+//background-repeat: no-repeat;
+//background-size: contain;  
+//background-position: 0px 0px;
+//background-attachment: fixed;
+//border: 1px solid green;
+}
+
+.fixedwidth{
+width: 1350px;
+//margin: 0 auto;
+//border: 1px solid gray;
+}
+
+#header{
+
+//border: 1px solid blue;
+height: 200px;
+}
+
+#logo{
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+position: fixed;
+height: 30px;
+//padding-bottom: 230px;
+//border: 1px solid green;
+}
+
+logo img{
+//float: top;
+
+}
+
+#nav{
+//display: block;
+//border: 11px solid green;
+height: 75px;
+width: 63.1%;
+margin-left:18.1%; 
+margin-right:18.8%;
+margin-top: 130px;
+//background: url("images/menu-bg.png") 50%;
+border-top-left-radius:10px;
+border-top-right-radius:10px;
+}
+
+#nav img{
+padding-top:0;
+position: relative;
+top: 5px;
+margin-right: 5px;
+}
+
+#nav #templemenu{
+position: relative;
+bottom: 7px;
+}
+#nav a{
+    color: #70A4B2;
+    text-shadow: -1px -1px 0 #222;
+	//white-space: nowrap;
+   //display: block;
+    float: right;
+    font-weight: bold;
+    font-size: 13px;
+    text-decoration: none !important;
+    //z-index: 100;
+   cursor: pointer;
+    padding: 10px 17px;
+  //  position: relative;
+    margin: 0px;
+	margin-top: 16px;
+    //outline: none;
+font-family: Geneva,Tahoma,Arial,sans-serif;
+//border-radius: 2px;
+//box-shadow: 0px 0px 10px #000;
+}
+
+#nav a:link{
+//color: #9FB400;
+}
+
+#nav a:visited{
+//color: #9FB400;
+}
+
+#nav a:hover{
+color: #9FB400;
+//font-weight: bold;
+box-shadow: 0px 0px 1px #BBB;
+//font-size: 18px;
+
+}
+
+#nav a:active{
+//color: red;
+}
+
+#wrapper{
+//border: 1px solid black;
+//background-image: url("images/bg.jpg");
+//background-repeat: no-repeat;
+//background-size: cover;
+width: 800px;
+height: auto;
+margin: 0px auto;
+}
+
+#wrapper #main img{
+//width: 800px;
+//height: 450px;
+margin-left: 149px;
+margin-top: 35px;
+border-radius: 20px;
+box-shadow: 0px 0px 60px #70A4B2;
+//border: 5px #70A4B2;
+//padding: 6px;
+}
+
+#wrapper #omsai{
+color: #70A4B2;
+font-size: 14px;
+margin-left: 300px;
+}
+
+#wrapper pre{
+color: #FF4500;
+font-size: 19px;
+font-weight: bold;
+margin: 0px center;
+
+}
+#wrapper #tva{
+color: #70A4B2;
+font-size: 14px;
+font-weight: bold;
+margin-left: 0px;
+
+}
+
+
+#wrapper #saying1{
+color: #70A4B2;
+font-size: 12px;
+margin-left: 60px;
+}
+
+#main{
+//border: 1px solid black;
+height: auto;
+}
+
+#BabaSayings{
+//margin: 0;
+//border: 1px solid blue;	
+width: 100%;
+height: auto;
+background-color: #192426;
+color: #70A4B2;
+font-size: 15px;
+margin-top: 20px;
+//margin-bottom: 1525px;
+}
+
+#BabaSayings ul{
+list-style: none;
+//margin-bottom: 0;
+}
+
+#BabaSayings ul li{
+text-align: center;
+padding: 10px;
+}
+
+#BabaSayings #BabaSayingsHeading{
+color: #FF4500;
+text-align: center;
+font-weight: bold;
+font-size: 20px;
+padding: 20px;
+} 
+
+#table1{
+    width:60%; 
+    margin-left:20%; 
+    margin-right:20%;
+//width: 790px;
+//height: 100px;
+//table-align: center;
+//table-layout: fixed;
+//border: 1px solid black;
+//margin-left: 275px;
+//margin-top: 80px;
+padding-top: 120px;
+}
+
+#table1 td{
+//float: bottom;
+background: #A9A9A9;
+font-size: 15px;
+padding: 7px;
+border-radius: 10px;
+box-shadow: 0px 0px 10px #000;
+//border: 10px solid black;
+}
+
+.ptable{
+font-family: Helvetica,Arial,sans-serif;
+font-size: 14px;
+margin-top: 20px;
+}
+
+#footer{
+height: auto;
+width: auto;
+text-align: center;
+font-size: 14px;
+margin: 0;
+//margin-top: -84px;
+background: #192426 url("images/footer-bg.jpg") 50% 0 no-repeat;
+}
+
+#table1 a{
+
+font-size:12px;
+text-decoration: none;
+text-align:right;
+color: #9FB400;
+background-color: #2F4F4F;
+padding: 5px;
+border-radius: 5px;
+box-shadow: 0px 0px 5px #000;
+}
+
+#footer #disclaimer{
+color: #70A4B2;
+background-color: #192426;
+}
+
+#footer #top{
+text-align: center;
+color: #9FB400;
+text-decoration: none;
+font-size: 12px;
+
+
+}
